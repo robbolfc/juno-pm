@@ -2,7 +2,7 @@
 
 ## Prototype link
 
-_The public share URL._
+https://lovable.dev/projects/e202fcad-77dd-4028-9899-bbc61e163098
 
 ## What it demonstrates
 
